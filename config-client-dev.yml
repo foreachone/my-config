@@ -1,6 +1,4 @@
 app:
   data:
-    country: >
-    {
-      "name": "china"
-    }
+    country: {"name": "china"}
+    
